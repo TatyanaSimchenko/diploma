@@ -1,5 +1,5 @@
 <template>
-  <h1>Menu for you</h1>
+  <p>Menu for you</p>
 </template>
 
 <script>
@@ -8,8 +8,4 @@ export default {
 };
 </script>
 
-<style scoped>
-h1 {
-  color: rebeccapurple;
-}
-</style>
+<style></style>

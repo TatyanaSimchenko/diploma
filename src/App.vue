@@ -1,10 +1,10 @@
 <template>
   <div class="app">
     <Home />
-    <p>
+    <!-- <p>
       <router-link class="router-link" to="/AppMenuOne">Menu one</router-link>
     </p>
-    <router-view></router-view>
+    <router-view></router-view> -->
   </div>
 </template>
 
@@ -17,17 +17,4 @@ export default {
 };
 </script>
 
-<style lang="scss">
-.nav {
-  padding: 30px;
-
-  a {
-    font-weight: bold;
-    color: #2c3e50;
-
-    &.router-link-exact-active {
-      color: #42b983;
-    }
-  }
-}
-</style>
+<style lang="scss"></style>
